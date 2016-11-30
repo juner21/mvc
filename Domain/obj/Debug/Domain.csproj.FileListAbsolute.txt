@@ -1,0 +1,4 @@
+E:\juner\练习项目\MVC\Domain\bin\Debug\Domain.dll
+E:\juner\练习项目\MVC\Domain\bin\Debug\Domain.pdb
+E:\juner\练习项目\MVC\Domain\obj\Debug\Domain.dll
+E:\juner\练习项目\MVC\Domain\obj\Debug\Domain.pdb

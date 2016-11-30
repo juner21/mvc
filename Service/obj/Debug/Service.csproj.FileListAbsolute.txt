@@ -1,0 +1,4 @@
+E:\juner\练习项目\MVC\Service\bin\Debug\Service.dll
+E:\juner\练习项目\MVC\Service\bin\Debug\Service.pdb
+E:\juner\练习项目\MVC\Service\obj\Debug\Service.dll
+E:\juner\练习项目\MVC\Service\obj\Debug\Service.pdb
